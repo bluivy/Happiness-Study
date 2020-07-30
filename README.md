@@ -1,4 +1,4 @@
-# Happiness-Study
+# Happiness-Study (EXPLATORY DATA ANALYSIS)
 
 he World Happiness Index is a survey of the global state of happiness. The first report was published in the year 2012 and subsequently till 2019. This survey ranks 155 out of 195 countries.
 
